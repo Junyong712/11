@@ -1,1 +1,1 @@
-![name](../image/파일명.jpg)
+![name](READ파일 연습)
